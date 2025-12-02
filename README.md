@@ -60,7 +60,8 @@ java StudentManagement
 
 📌 Sample Output ===== Student Record Menu =====
 
-Add Student Display All Students Exit Enter your choice: 1 Enter Roll No: 120 Enter Name: ajay Enter Course: B.Tech Enter Marks: 87 Student added successfully!
+Add Student Display All Students Exit Enter your choice: 1 Enter Roll No: 101
+Enter Name: rahul Enter Course: B.Tech Enter Marks: 87 Student added successfully!
 
 ===== Student Record Menu ===== Enter your choice: 2 Roll No: 101 Name: Rahul Course: B.Tech Marks: 87.0 Grade: B 🧠 Concepts Used
 
